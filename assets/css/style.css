@@ -86,6 +86,10 @@ h6 {
     color: var(--primary-color);
 }
 
+.m-color {
+    color: #ee1600;
+}
+
 .m-btn {
     background: #ee1600;
     padding: 0 50px;
